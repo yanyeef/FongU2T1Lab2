@@ -12,6 +12,6 @@ public class CircleRunner {
         // the area of the circle
 
         // D. run the code and confirm your prediction! Were you correct?
-        //  yes i was correct
+        //  Yes I was correct
     }
 }
